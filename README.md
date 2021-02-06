@@ -7,7 +7,6 @@ out of the models.
 - `Numpy`: As a dependency for Pandas
 - `Scikit-learn`: The most important library for ML
 - `tensorflow`: A deep learning library for the transformers base
-- `pytorch`: Another deep learning library used by transformers.
 - `transformers`
 
 
