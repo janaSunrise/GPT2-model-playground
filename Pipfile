@@ -12,3 +12,6 @@ tensorflow = "*"
 jupyter = "*"
 torch = "*"
 transformers = "*"
+
+[scripts]
+start = "jupyter notebook"
