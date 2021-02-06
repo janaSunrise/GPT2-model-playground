@@ -3,6 +3,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
+[dev-packages]
+
 [packages]
 numpy = "*"
 scikit-learn = "*"
@@ -10,8 +12,3 @@ tensorflow = "*"
 jupyter = "*"
 torch = "*"
 transformers = "*"
-
-[dev-packages]
-
-[requires]
-python_version = "3.8"
